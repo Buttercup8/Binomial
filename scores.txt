@@ -1,0 +1,6 @@
+Bob  Evans 75
+Sue  Jones 85
+Laura  Tverberg 99
+Diane  Bina 95
+Pauline  Shoemaker 97
+Susan  Funderburk 93
